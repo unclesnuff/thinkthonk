@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/thinkthonk/static/css/main.5f361e03.chunk.css",
+    "main.js": "/thinkthonk/static/js/main.a6176483.chunk.js",
+    "main.js.map": "/thinkthonk/static/js/main.a6176483.chunk.js.map",
+    "runtime-main.js": "/thinkthonk/static/js/runtime-main.29c28727.js",
+    "runtime-main.js.map": "/thinkthonk/static/js/runtime-main.29c28727.js.map",
+    "static/js/2.44109e1b.chunk.js": "/thinkthonk/static/js/2.44109e1b.chunk.js",
+    "static/js/2.44109e1b.chunk.js.map": "/thinkthonk/static/js/2.44109e1b.chunk.js.map",
+    "index.html": "/thinkthonk/index.html",
+    "precache-manifest.5c70d53a722037e22ed67f20b895c917.js": "/thinkthonk/precache-manifest.5c70d53a722037e22ed67f20b895c917.js",
+    "service-worker.js": "/thinkthonk/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/thinkthonk/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.44109e1b.chunk.js.LICENSE.txt": "/thinkthonk/static/js/2.44109e1b.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/thinkthonk/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29c28727.js",
+    "static/js/2.44109e1b.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.a6176483.chunk.js"
+  ]
+}
