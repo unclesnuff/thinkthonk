@@ -16,7 +16,7 @@ class S extends PureComponent {
     render() {
         return (
             <div className={style}>
-                
+
             </div>
         );
     }
