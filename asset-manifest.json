@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/thinkthonk/static/css/main.7072a9db.chunk.css",
+    "main.css": "/thinkthonk/static/css/main.45de6b78.chunk.css",
     "main.js": "/thinkthonk/static/js/main.56b38ba0.chunk.js",
     "main.js.map": "/thinkthonk/static/js/main.56b38ba0.chunk.js.map",
     "runtime-main.js": "/thinkthonk/static/js/runtime-main.29c28727.js",
@@ -8,16 +8,16 @@
     "static/js/2.95c3eb11.chunk.js": "/thinkthonk/static/js/2.95c3eb11.chunk.js",
     "static/js/2.95c3eb11.chunk.js.map": "/thinkthonk/static/js/2.95c3eb11.chunk.js.map",
     "index.html": "/thinkthonk/index.html",
-    "precache-manifest.f31a81e7ed3bc90769c82fc2893b12c2.js": "/thinkthonk/precache-manifest.f31a81e7ed3bc90769c82fc2893b12c2.js",
+    "precache-manifest.82779a64611fa60b7450ef24db16e3a2.js": "/thinkthonk/precache-manifest.82779a64611fa60b7450ef24db16e3a2.js",
     "service-worker.js": "/thinkthonk/service-worker.js",
-    "static/css/main.7072a9db.chunk.css.map": "/thinkthonk/static/css/main.7072a9db.chunk.css.map",
+    "static/css/main.45de6b78.chunk.css.map": "/thinkthonk/static/css/main.45de6b78.chunk.css.map",
     "static/js/2.95c3eb11.chunk.js.LICENSE.txt": "/thinkthonk/static/js/2.95c3eb11.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/thinkthonk/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.29c28727.js",
     "static/js/2.95c3eb11.chunk.js",
-    "static/css/main.7072a9db.chunk.css",
+    "static/css/main.45de6b78.chunk.css",
     "static/js/main.56b38ba0.chunk.js"
   ]
 }
