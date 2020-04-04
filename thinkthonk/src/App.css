@@ -1,5 +1,13 @@
+@import '~antd/dist/antd.css';
 .App {
-    text-align: center;
+    display: inline;
+    color: #131212;
+}
+
+li {
+    text-shadow: black;
+    color: #dfd2d2;
+    list-style-type: none;
 }
 
 .App-logo {
@@ -13,14 +21,30 @@
     }
 }
 
-.App-header {
-    background-color: #ece2e2;
-    min-height: 100vh;
+.flex-container {
     display: flex;
-    flex-direction: column;
+    align-content: center;
+}
+
+body {
+    background-color: #312d2d;
+    color: #dfd2d2;
+}
+
+.App-header {
+    background-color: #332f2f;
+    display: flexbox;
+    flex-direction: row;
     justify-content: center;
     font-size: calc(10px + 2vmin);
-    color: rgb(19, 18, 18);
+}
+
+h3.text-center {
+    padding: 10px 10px 10px 10px;
+    color: #312d2d;
+    text-shadow: black;
+    text-decoration-thickness: 10px;
+    font-size: 48px;
 }
 
 .App-link {
